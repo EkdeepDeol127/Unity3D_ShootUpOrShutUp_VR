@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{060E40A5-99DB-2992-7D84-706DB8C166F2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletFire.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleShoot.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/BulletFire.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

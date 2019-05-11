@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5f648acb33776e46afb25e4d3462925, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 789c0d8adf2a58a43bc9dcf1509b3b8f, type: 2}
+  - {fileID: 11400000, guid: 54952c8e1aa1a5746859b88ad21ee586, type: 2}
+  - {fileID: 11400000, guid: 85cc75d93d4930044bfc3cc21afaec6e, type: 2}
+  - {fileID: 11400000, guid: 3f57eda8369e1034ebda916574fb9af9, type: 2}
+  - {fileID: 11400000, guid: c2777ffd0326bef4580cc3a4a3f59c7e, type: 2}
+  - {fileID: 11400000, guid: 11ba2d7caa1141d48a694d17ecd08abd, type: 2}
+  - {fileID: 11400000, guid: 28853edde7d60444ba175d4ae10f4665, type: 2}
+  - {fileID: 11400000, guid: faa95af9c73f3324f8446130af93ecde, type: 2}
+  - {fileID: 11400000, guid: 8d6ed5408c9936e4aa06ae8c7aa0bfe5, type: 2}
+  - {fileID: 11400000, guid: 701188aa9869ecc4c90ae9d9bdde80a2, type: 2}
+  - {fileID: 11400000, guid: 11fd6afce3070c449b2fb88800a04893, type: 2}
+  InteractUI: {fileID: 11400000, guid: 789c0d8adf2a58a43bc9dcf1509b3b8f, type: 2}
+  Teleport: {fileID: 11400000, guid: 54952c8e1aa1a5746859b88ad21ee586, type: 2}
+  GrabPinch: {fileID: 11400000, guid: 85cc75d93d4930044bfc3cc21afaec6e, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 3f57eda8369e1034ebda916574fb9af9, type: 2}
+  Pose: {fileID: 11400000, guid: c2777ffd0326bef4580cc3a4a3f59c7e, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: 11ba2d7caa1141d48a694d17ecd08abd, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 28853edde7d60444ba175d4ae10f4665, type: 2}
+  Squeeze: {fileID: 11400000, guid: faa95af9c73f3324f8446130af93ecde, type: 2}
+  TestShop: {fileID: 11400000, guid: 8d6ed5408c9936e4aa06ae8c7aa0bfe5, type: 2}
+  TestReload: {fileID: 11400000, guid: 701188aa9869ecc4c90ae9d9bdde80a2, type: 2}
+  TestBuy: {fileID: 11400000, guid: 11fd6afce3070c449b2fb88800a04893, type: 2}
